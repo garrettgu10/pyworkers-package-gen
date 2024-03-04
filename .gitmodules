@@ -1,0 +1,6 @@
+[submodule "emsdk"]
+	path = emsdk
+	url = https://github.com/emscripten-core/emsdk
+[submodule "pyodide"]
+	path = pyodide
+	url = https://github.com/garrettgu10/pyodide.git
